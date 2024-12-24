@@ -32,8 +32,8 @@ For a full list of dependencies, refer to `requirements.txt`.
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd HCMAI2023
+   git clone git@github.com:duonghiepit/event-retrieval-hcmai.git
+   cd event-retrieval-hcmai
    ```
 
 2. Install dependencies:
